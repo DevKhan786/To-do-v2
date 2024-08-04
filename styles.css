@@ -15,7 +15,8 @@ body {
   padding: 20px;
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 1);
-  width: 400px;
+  max-width: 400px;
+  width: 80%;
   text-align: center;
   display: flex;
   align-items: center;
@@ -74,7 +75,8 @@ li {
   border-bottom: 1px solid #ccc;
   background-color: black;
   color: white;
-  min-width: 300px;
+  min-width: 200px;
+  max-width: 400px;
   width: 100%;
   font-size: 14px;
   border-radius: 20px;
